@@ -1,0 +1,8 @@
+{
+  "name": "AuditPilot: AI Digital Marketing Audit",
+  "description": "AI-powered digital marketing audit covering SEO, content gaps, keyword opportunities, technical SEO checklist, and AI search readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
